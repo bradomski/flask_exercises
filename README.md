@@ -1,2 +1,2 @@
 # flask_exercises
-Lessons from Flask Web Development - O'Reilly
+Exercises from Flask Web Development - O'Reilly
